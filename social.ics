@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[social] International Transgender Day of Visibility
+DTSTART;VALUE=DATE-TIME:20210611T161000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012623Z
+UID:[social]internationaltransgenderdayofvisibility-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [social] International Transgender Day of Visibility
+ \nChair:  John Doe\nDescription:  If you're interested in Example\, we hav
+ e a 45 minute long weekly meeting for you to attend.\nAgenda URL:  https:/
+ /en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility\nProjec
+ t URL:  https://en.wikipedia.org/wiki/International_Transgender_Day_of_Vis
+ ibility
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR

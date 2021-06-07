@@ -1,0 +1,12 @@
+project: "[event]: Hacktoberfest"
+agenda_url: https://hacktoberfest.digitalocean.com/
+project_url: https://hacktoberfest.digitalocean.com/
+schedule:
+  - time: '1610'
+    duration: 45
+    day: Friday
+    irc: openstack-meeting
+    frequency: weekly
+chair: John Doe
+description:  >
+  If you're interested in Example, we have a 45 minute long weekly meeting for you to attend.

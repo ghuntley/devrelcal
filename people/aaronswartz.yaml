@@ -1,0 +1,12 @@
+project: "[person] Anniversary of Aaron Swartz death"
+agenda_url: https://en.wikipedia.org/wiki/Aaron_Swartz
+project_url: https://en.wikipedia.org/wiki/Aaron_Swartz
+schedule:
+  - time: '1600'
+    duration: 45
+    day: Friday
+    irc: openstack-meeting
+    frequency: weekly
+chair: John Doe
+description:  >
+  If you're interested in Example, we have a 45 minute long weekly meeting for you to attend.

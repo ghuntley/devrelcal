@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[event]: Hacktoberfest
+DTSTART;VALUE=DATE-TIME:20210611T161000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012253Z
+UID:[event]:hacktoberfest-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [event]: Hacktoberfest\nChair:  John Doe\nDescriptio
+ n:  If you're interested in Example\, we have a 45 minute long weekly meet
+ ing for you to attend.\nAgenda URL:  https://hacktoberfest.digitalocean.co
+ m/\nProject URL:  https://hacktoberfest.digitalocean.com/
+LOCATION:#openstack-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[event]: Open-Source Friday
+DTSTART;VALUE=DATE-TIME:20210611T150000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012300Z
+UID:[event]:open-sourcefriday-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [event]: Open-Source Friday\nChair:  John Doe\nDescr
+ iption:  If you're interested in Example\, we have a 45 minute long weekly
+  meeting for you to attend.\nAgenda URL:  https://opensourcefriday.com/\nP
+ roject URL:  https://opensourcefriday.com/
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR

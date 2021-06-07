@@ -1,0 +1,12 @@
+project: "[event]: Open-Source Friday"
+agenda_url: https://opensourcefriday.com/
+project_url: https://opensourcefriday.com/
+schedule:
+  - time: '1500'
+    duration: 45
+    day: Friday
+    irc: openstack-meeting
+    frequency: weekly
+chair: John Doe
+description:  >
+  If you're interested in Example, we have a 45 minute long weekly meeting for you to attend.

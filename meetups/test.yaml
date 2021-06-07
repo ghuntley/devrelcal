@@ -1,0 +1,12 @@
+project: "[social] International Transgender Day of Visibility"
+agenda_url: https://en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility
+project_url: https://en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility
+schedule:
+  - time: '1610'
+    duration: 45
+    day: Friday
+    irc: openstack-meeting
+    frequency: weekly
+chair: John Doe
+description:  >
+  If you're interested in Example, we have a 45 minute long weekly meeting for you to attend.

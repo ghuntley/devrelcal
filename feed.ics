@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[conference] DevX Conf
+DTSTART;VALUE=DATE-TIME:20210611T160000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T011431Z
+UID:[conference]devxconf-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [conference] DevX Conf\nChair:  John Doe\nDescriptio
+ n:  If you're interested in Example\, we have a 45 minute long weekly meet
+ ing for you to attend.\nAgenda URL:  https://devxconf.org/\nProject URL:  
+ https://devxconf.org/
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[event]: Hacktoberfest
+DTSTART;VALUE=DATE-TIME:20210611T161000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012253Z
+UID:[event]:hacktoberfest-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [event]: Hacktoberfest\nChair:  John Doe\nDescriptio
+ n:  If you're interested in Example\, we have a 45 minute long weekly meet
+ ing for you to attend.\nAgenda URL:  https://hacktoberfest.digitalocean.co
+ m/\nProject URL:  https://hacktoberfest.digitalocean.com/
+LOCATION:#openstack-meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[event]: Open-Source Friday
+DTSTART;VALUE=DATE-TIME:20210611T150000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012300Z
+UID:[event]:open-sourcefriday-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [event]: Open-Source Friday\nChair:  John Doe\nDescr
+ iption:  If you're interested in Example\, we have a 45 minute long weekly
+  meeting for you to attend.\nAgenda URL:  https://opensourcefriday.com/\nP
+ roject URL:  https://opensourcefriday.com/
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[social] International Transgender Day of Visibility
+DTSTART;VALUE=DATE-TIME:20210611T161000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012012Z
+UID:[social]internationaltransgenderdayofvisibility-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [social] International Transgender Day of Visibility
+ \nChair:  John Doe\nDescription:  If you're interested in Example\, we hav
+ e a 45 minute long weekly meeting for you to attend.\nAgenda URL:  https:/
+ /en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility\nProjec
+ t URL:  https://en.wikipedia.org/wiki/International_Transgender_Day_of_Vis
+ ibility
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[person] Anniversary of Aaron Swartz death
+DTSTART;VALUE=DATE-TIME:20210611T160000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T011145Z
+UID:[person]anniversaryofaaronswartzdeath-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [person] Anniversary of Aaron Swartz death\nChair:  
+ John Doe\nDescription:  If you're interested in Example\, we have a 45 min
+ ute long weekly meeting for you to attend.\nAgenda URL:  https://en.wikipe
+ dia.org/wiki/Aaron_Swartz\nProject URL:  https://en.wikipedia.org/wiki/Aar
+ on_Swartz
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[social] International Transgender Day of Visibility
+DTSTART;VALUE=DATE-TIME:20210611T161000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T012623Z
+UID:[social]internationaltransgenderdayofvisibility-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [social] International Transgender Day of Visibility
+ \nChair:  John Doe\nDescription:  If you're interested in Example\, we hav
+ e a 45 minute long weekly meeting for you to attend.\nAgenda URL:  https:/
+ /en.wikipedia.org/wiki/International_Transgender_Day_of_Visibility\nProjec
+ t URL:  https://en.wikipedia.org/wiki/International_Transgender_Day_of_Vis
+ ibility
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[conference] DevX Conf
+DTSTART;VALUE=DATE-TIME:20210611T160000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T011431Z
+UID:[conference]devxconf-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [conference] DevX Conf\nChair:  John Doe\nDescriptio
+ n:  If you're interested in Example\, we have a 45 minute long weekly meet
+ ing for you to attend.\nAgenda URL:  https://devxconf.org/\nProject URL:  
+ https://devxconf.org/
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR

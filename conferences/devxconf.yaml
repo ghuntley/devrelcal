@@ -1,0 +1,12 @@
+project: "[conference] DevX Conf"
+agenda_url: https://devxconf.org/
+project_url: https://devxconf.org/
+schedule:
+  - time: '1600'
+    duration: 45
+    day: Friday
+    irc: openstack-meeting
+    frequency: weekly
+chair: John Doe
+description:  >
+  If you're interested in Example, we have a 45 minute long weekly meeting for you to attend.

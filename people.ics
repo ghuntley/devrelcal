@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yaml2ical agendas//EN
+BEGIN:VEVENT
+SUMMARY:[person] Anniversary of Aaron Swartz death
+DTSTART;VALUE=DATE-TIME:20210611T160000Z
+DURATION:PT45M
+DTSTAMP;VALUE=DATE-TIME:20210607T011145Z
+UID:[person]anniversaryofaaronswartzdeath-20210611
+RRULE:FREQ=WEEKLY
+DESCRIPTION:Project:  [person] Anniversary of Aaron Swartz death\nChair:  
+ John Doe\nDescription:  If you're interested in Example\, we have a 45 min
+ ute long weekly meeting for you to attend.\nAgenda URL:  https://en.wikipe
+ dia.org/wiki/Aaron_Swartz\nProject URL:  https://en.wikipedia.org/wiki/Aar
+ on_Swartz
+LOCATION:#openstack-meeting
+END:VEVENT
+END:VCALENDAR
